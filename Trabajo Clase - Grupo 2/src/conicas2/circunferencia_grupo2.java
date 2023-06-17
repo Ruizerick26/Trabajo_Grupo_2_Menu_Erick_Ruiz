@@ -30,7 +30,7 @@ public class circunferencia_grupo2 {
         return radio_cir;
     }
 
-    private void setRadio_cir(float radio_cir) {
+    public void setRadio_cir(float radio_cir) {
         this.radio_cir = radio_cir;
     }
 
